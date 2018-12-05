@@ -1,1 +1,1 @@
-print("Huli zirish eblan")
+print("sam eblan")
