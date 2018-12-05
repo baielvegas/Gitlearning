@@ -1,0 +1,1 @@
+print("Huli zirish eblan")
